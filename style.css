@@ -101,7 +101,7 @@ span{
     gap: 7em;
     background: url(images/CS2_enhanced.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-color: rgba(201, 187, 187, 0.7);
     background-blend-mode: lighten;
 }
@@ -203,24 +203,13 @@ span{
     background-color: rgb(40, 40, 40);
     background: url(images/computer-stationery-printing-machine.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-color: rgba(7, 1, 1, 0.7);
     background-blend-mode: darken;
 }
 
-.about-img{
-    width: 30%;
-}
-
-.about-img img{
-    width: 175%;
-    position: relative;
-    background-color: whitesmoke;
-
-}
 .about-content{
     max-width: 70%;
-    padding-left: 50px;
 }
 
 .about-content h2{
@@ -252,7 +241,7 @@ span{
     font-family: Arial, sans-serif;
     background: url(images/CS3.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-color: rgba(201, 187, 187, 0.7);
     background-blend-mode: lighten;
 }
@@ -776,16 +765,9 @@ button.prev-btn:hover, button.next-btn:hover {
         padding: 8% 0%;
         padding-top: 60px;
     }
-    .about .about-img{
-        padding:0px;
-        width: 50%!important;
-        background: whitesmoke;
-    }
-    .about .about-img img{
-        width: 100%;
-    }
+   
     .about-content{
-        width: 95%!important;
+        width: 100%!important;
     }
     .about-content .h2{
         margin-bottom: 0px !important;
