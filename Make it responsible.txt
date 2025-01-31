@@ -1,0 +1,22 @@
+Make it responsible
+
+
+Home Section
+
+1. Remove animation and use png img
+2. Add  2-3 lines description
+
+About Section
+
+1. Remove animation on img 
+2. Justify-content 
+
+Profile Section
+
+1. Use cards for line of business and Infra
+2. Facilities- accordian or List
+
+
+Contact Me
+1. Form should be visible in 1 scroll 100vh
+
